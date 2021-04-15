@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+
+.banner {
+  width: 100;
+  text-align: center;
+  background-color: darkslategrey;
+  padding-bottom: 20px;
+}
+
+.about_us {
+  width: 100;
+  text-align: center;
+}
+
+
